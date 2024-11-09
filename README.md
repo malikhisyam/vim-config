@@ -6,6 +6,21 @@
 
 This cheatsheet covers essential Vim navigation, editing, and custom keybindings in VSCode to help streamline your development workflow.
 
+## Setup Instructions
+
+### Step 1: Install Vim Extension in VSCode
+1. Open VSCode.
+2. Go to the Extensions sidebar (`Ctrl+Shift+X`).
+3. Search for **Vim** and install the extension by **VSCodeVim**.
+
+### Step 2: Configure Settings in settings.json and keybindings.json
+1. Open the VSCode settings by pressing `Ctrl + ,`.
+2. In the top-right corner, select **Open Settings (JSON)** to edit the `settings.json` file directly.
+3. Copy and paste the settings.json into your `settings.json`
+4. In the bottom-right corner press gear icon and click **Keyboard Shortcut**
+5. Then look at the top-right corner, again click **Open Keyboard Settings (JSON)** to edit the `keybindings.json`
+6. Copy and paste the keybindings.json to your keybindings.json`
+
 ## Table of Contents
 1. [Basic Navigation](#basic-navigation)
 2. [Word Navigation](#word-navigation)
