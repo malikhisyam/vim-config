@@ -1,6 +1,8 @@
 # VSCode + Vim Keybindings Cheatsheet
 
-![Vim Logo](https://upload.wikimedia.org/wikipedia/commons/9/9f/Vimlogo.svg)
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Vimlogo.svg" alt="Vim Logo" width="100" height="100">
+</p>
 
 This cheatsheet covers essential Vim navigation, editing, and custom keybindings in VSCode to help streamline your development workflow.
 
