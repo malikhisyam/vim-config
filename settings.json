@@ -3,6 +3,7 @@
   "editor.defaultFormatter": "esbenp.prettier-vscode",
   "editor.lineNumbers": "relative",
   "vim.leader": "<Space>",
+  "vim.useSystemClipboard": true,
   "vim.hlsearch": true,
   "vim.normalModeKeyBindingsNonRecursive": [
     // NAVIGATION
